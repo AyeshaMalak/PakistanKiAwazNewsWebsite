@@ -40,6 +40,14 @@ export default function TeamProfile() {
             description:
                 "Imran Sheikh brings real-time reporting from field locations, covering political, social, and community news with accuracy and reliability.",
         },
+        {
+            name: "Muhammad Kashif Memon",
+            slug: "muhammad-kashif-memon",
+            role: "Marketing Management Director",
+            image: "/member.jpeg", 
+            description:
+                "Muhammad Kashif Memon has been appointed as the Marketing Management Director by the Chief Editor of Roznama Pakistan Ki Awaz. He oversees marketing strategy, promotions, and brand growth while ensuring effective communication with stakeholders.",
+        },
     ];
 
     useEffect(() => {
